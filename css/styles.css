@@ -613,6 +613,7 @@ fill: #f4f4fd;
     transform: translate(-50%, -50%) scale(1) ;
     width: 408px;
     min-height: 584px;
+    margin-bottom: 8px;
     border-radius: 4px;
     background: #FCFCFC;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
